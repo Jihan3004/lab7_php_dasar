@@ -54,7 +54,6 @@ Perulangan dowhile
 
 Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitung umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang berbeda-beda sesuai pilihan pekerjaan.  
 
-Output
 
 ![12](https://user-images.githubusercontent.com/81526294/117674030-873cef00-b1d5-11eb-8bed-15fe440298d3.PNG)
 
@@ -67,6 +66,8 @@ Output
 ![16](https://user-images.githubusercontent.com/81526294/117674061-8d32d000-b1d5-11eb-8f1e-593faa285d49.PNG)
 
 pekerjaan dengan gaji yang berbeda-beda sesuai pilihan pekerjaan.  
+
+Output
 
 ![17](https://user-images.githubusercontent.com/81526294/117674064-8dcb6680-b1d5-11eb-919f-a874f0cbfca8.PNG)
 
